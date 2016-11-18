@@ -1,0 +1,154 @@
+46808  2016-10-27 12:14:51,087 TRACE           tatar.tourism.mail.EmailSender  - The message to be sent:<html>
+<body>
+Приветствую habar,
+<br>
+Вы зарегестрировались в нашем приложении. Пожалуйста не забудьте ваш пароль <p style='color:green;'>qwerty123456</p>
+<br>
+Чтобы подтвердить ваш аккаунт, пожалуйста пройдите <a href="http://localhost:9967/tourismapp/confirm?uuid=ec1ce5f9-e2dd-4bcd-ae64-fc6f45d13981">по ссылке</a>
+<br>
+С уважением, команда Tatarstan Tourism<br/>
+</body>
+</html>
+46827  2016-10-27 12:14:51,106 TRACE              tatar.tourism.mail.MailUtil  - App is executed in folder C:\Users\habar\IdeaProjects\forumTwo
+46828  2016-10-27 12:14:51,107 TRACE              tatar.tourism.mail.MailUtil  - Properties are located at /C:/Users/habar/IdeaProjects/forumTwo/target/vazilon/WEB-INF/classes/emailconfig.properties
+46828  2016-10-27 12:14:51,107 TRACE              tatar.tourism.mail.MailUtil  - Getting properties
+46858  2016-10-27 12:14:51,137 TRACE              tatar.tourism.mail.MailUtil  - Setting up smtp session
+46863  2016-10-27 12:14:51,142 TRACE              tatar.tourism.mail.MailUtil  - Formatting the new message
+46998  2016-10-27 12:14:51,277 TRACE              tatar.tourism.mail.MailUtil  - Sending message
+53123  2016-10-27 12:14:57,402 TRACE              tatar.tourism.mail.MailUtil  - Message successfully sent
+67260  2016-10-27 12:32:49,042 TRACE           tatar.tourism.mail.EmailSender  - The message to be sent:<html>
+<body>
+Приветствую forumchane,
+<br>
+Вы зарегестрировались в нашем приложении. Пожалуйста не забудьте ваш пароль <p style='color:green;'>qwerty123456</p>
+<br>
+Чтобы подтвердить ваш аккаунт, пожалуйста пройдите <a href="http://localhost:8090/vazilon/confirm?uuid=2bdd91a6-725a-47ae-acc8-7160a14a5a90">по ссылке</a>
+<br>
+С уважением, Форум.<br/>
+</body>
+</html>
+67272  2016-10-27 12:32:49,054 TRACE              tatar.tourism.mail.MailUtil  - App is executed in folder C:\Users\habar\IdeaProjects\forumTwo
+67272  2016-10-27 12:32:49,054 TRACE              tatar.tourism.mail.MailUtil  - Properties are located at /C:/Users/habar/IdeaProjects/forumTwo/target/vazilon/WEB-INF/classes/emailconfig.properties
+67272  2016-10-27 12:32:49,054 TRACE              tatar.tourism.mail.MailUtil  - Getting properties
+67292  2016-10-27 12:32:49,074 TRACE              tatar.tourism.mail.MailUtil  - Setting up smtp session
+67292  2016-10-27 12:32:49,074 TRACE              tatar.tourism.mail.MailUtil  - Formatting the new message
+67401  2016-10-27 12:32:49,183 TRACE              tatar.tourism.mail.MailUtil  - Sending message
+69209  2016-10-27 12:32:50,991 ERROR              tatar.tourism.mail.MailUtil  - Message si not sent due to 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials g63sm1114019lji.45 - gsmtp
+
+486984 2016-10-27 12:39:48,766 TRACE           tatar.tourism.mail.EmailSender  - The message to be sent:<html>
+<body>
+Приветствую habar45,
+<br>
+Вы зарегестрировались в нашем приложении. Пожалуйста не забудьте ваш пароль <p style='color:green;'>qwerty123456</p>
+<br>
+Чтобы подтвердить ваш аккаунт, пожалуйста пройдите <a href="http://localhost:8090/vazilon/confirm?uuid=3809691e-b3bb-47b5-85aa-2ed4eda9c985">по ссылке</a>
+<br>
+С уважением, Форум.<br/>
+</body>
+</html>
+486985 2016-10-27 12:39:48,767 TRACE              tatar.tourism.mail.MailUtil  - App is executed in folder C:\Users\habar\IdeaProjects\forumTwo
+486985 2016-10-27 12:39:48,767 TRACE              tatar.tourism.mail.MailUtil  - Properties are located at /C:/Users/habar/IdeaProjects/forumTwo/target/vazilon/WEB-INF/classes/emailconfig.properties
+486985 2016-10-27 12:39:48,767 TRACE              tatar.tourism.mail.MailUtil  - Getting properties
+486995 2016-10-27 12:39:48,777 TRACE              tatar.tourism.mail.MailUtil  - Setting up smtp session
+486999 2016-10-27 12:39:48,781 TRACE              tatar.tourism.mail.MailUtil  - Formatting the new message
+486999 2016-10-27 12:39:48,781 TRACE              tatar.tourism.mail.MailUtil  - Sending message
+487964 2016-10-27 12:39:49,746 ERROR              tatar.tourism.mail.MailUtil  - Message si not sent due to 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials h67sm1128040lji.29 - gsmtp
+
+90257  2016-10-27 12:43:57,056 TRACE           tatar.tourism.mail.EmailSender  - The message to be sent:<html>
+<body>
+Приветствую 123456,
+<br>
+Вы зарегестрировались в нашем приложении. Пожалуйста не забудьте ваш пароль <p style='color:green;'>qwerty123456</p>
+<br>
+Чтобы подтвердить ваш аккаунт, пожалуйста пройдите <a href="http://localhost:8090/vazilon/confirm?uuid=7b8c3aa5-79d7-452f-8b8a-e8374c1bd83f">по ссылке</a>
+<br>
+С уважением, Форум.<br/>
+</body>
+</html>
+90269  2016-10-27 12:43:57,068 TRACE              tatar.tourism.mail.MailUtil  - App is executed in folder C:\Users\habar\IdeaProjects\forumTwo
+90269  2016-10-27 12:43:57,068 TRACE              tatar.tourism.mail.MailUtil  - Properties are located at /C:/Users/habar/IdeaProjects/forumTwo/target/vazilon/WEB-INF/classes/emailconfig.properties
+90269  2016-10-27 12:43:57,068 TRACE              tatar.tourism.mail.MailUtil  - Getting properties
+90555  2016-10-27 12:43:57,354 TRACE              tatar.tourism.mail.MailUtil  - Setting up smtp session
+90555  2016-10-27 12:43:57,354 TRACE              tatar.tourism.mail.MailUtil  - Formatting the new message
+90611  2016-10-27 12:43:57,410 TRACE              tatar.tourism.mail.MailUtil  - Sending message
+91811  2016-10-27 12:43:58,610 ERROR              tatar.tourism.mail.MailUtil  - Message si not sent due to 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbvV
+534-5.7.14 Nv8ZaFAfRV6g8jC9Vpy1rnXGV31XPaMucgsi_W4NxK7F-QAkJDl_QdDw6TxcJhjCDajpeT
+534-5.7.14 z09_nh_oDE5nYNJVxEVO0v6p2v-u08Iejk_tebDo0qeKXBYefpNm8sus087Dqi9Df2r6nq
+534-5.7.14 RnjrtXMEBoIuIylDlVsPOvuqy0v7qX35890zHpfqtnjDNV5O1BBVupbC2EdfXhuJsu79PV
+534-5.7.14 a-wQy5TeDrEyPHMmEfaGgpQiqU6TI> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 85sm1134620lfx.29 - gsmtp
+
+40914  2016-10-27 12:47:25,009 TRACE           tatar.tourism.mail.EmailSender  - The message to be sent:<html>
+<body>
+Приветствую 111111111111,
+<br>
+Вы зарегестрировались в нашем приложении. Пожалуйста не забудьте ваш пароль <p style='color:green;'>qwerty123456</p>
+<br>
+Чтобы подтвердить ваш аккаунт, пожалуйста пройдите <a href="http://localhost:8090/vazilon/confirm?uuid=9d3b935a-3d81-483c-ba6a-55407e511a59">по ссылке</a>
+<br>
+С уважением, Форум.<br/>
+</body>
+</html>
+40930  2016-10-27 12:47:25,025 TRACE              tatar.tourism.mail.MailUtil  - App is executed in folder C:\Users\habar\IdeaProjects\forumTwo
+40930  2016-10-27 12:47:25,025 TRACE              tatar.tourism.mail.MailUtil  - Properties are located at /C:/Users/habar/IdeaProjects/forumTwo/target/vazilon/WEB-INF/classes/emailconfig.properties
+40930  2016-10-27 12:47:25,025 TRACE              tatar.tourism.mail.MailUtil  - Getting properties
+40977  2016-10-27 12:47:25,072 TRACE              tatar.tourism.mail.MailUtil  - Setting up smtp session
+41011  2016-10-27 12:47:25,106 TRACE              tatar.tourism.mail.MailUtil  - Formatting the new message
+41114  2016-10-27 12:47:25,209 TRACE              tatar.tourism.mail.MailUtil  - Sending message
+44081  2016-10-27 12:47:28,176 TRACE              tatar.tourism.mail.MailUtil  - Message successfully sent
+74047  2016-10-27 12:52:48,385 TRACE           tatar.tourism.mail.EmailSender  - The message to be sent:<html>
+<body>
+Приветствую Serega,
+<br>
+Вы зарегестрировались в нашем приложении. Пожалуйста не забудьте ваш пароль <p style='color:green;'>serga</p>
+<br>
+Чтобы подтвердить ваш аккаунт, пожалуйста пройдите <a href="http://localhost:8090/vazilon/confirm?uuid=6b87d2be-5aeb-458d-8cd0-516008ec8b2a">по ссылке</a>
+<br>
+С уважением, Форум.<br/>
+</body>
+</html>
+74062  2016-10-27 12:52:48,400 TRACE              tatar.tourism.mail.MailUtil  - App is executed in folder C:\Users\habar\IdeaProjects\forumTwo
+74063  2016-10-27 12:52:48,401 TRACE              tatar.tourism.mail.MailUtil  - Properties are located at /C:/Users/habar/IdeaProjects/forumTwo/target/vazilon/WEB-INF/classes/emailconfig.properties
+74063  2016-10-27 12:52:48,401 TRACE              tatar.tourism.mail.MailUtil  - Getting properties
+74085  2016-10-27 12:52:48,423 TRACE              tatar.tourism.mail.MailUtil  - Setting up smtp session
+74091  2016-10-27 12:52:48,429 TRACE              tatar.tourism.mail.MailUtil  - Formatting the new message
+74185  2016-10-27 12:52:48,523 TRACE              tatar.tourism.mail.MailUtil  - Sending message
+76420  2016-10-27 12:52:50,758 TRACE              tatar.tourism.mail.MailUtil  - Message successfully sent
+224375 2016-10-27 12:55:18,713 TRACE           tatar.tourism.mail.EmailSender  - The message to be sent:<html>
+<body>
+Здравствуйте Serega,
+<br>
+вы только что подтвердили свой аккаунт. Теперь вы можете полноценно пользоваться сайтом.
+<br>
+Regards, Форум <br/>
+</body>
+</html>
+224375 2016-10-27 12:55:18,713 TRACE              tatar.tourism.mail.MailUtil  - App is executed in folder C:\Users\habar\IdeaProjects\forumTwo
+224375 2016-10-27 12:55:18,713 TRACE              tatar.tourism.mail.MailUtil  - Properties are located at /C:/Users/habar/IdeaProjects/forumTwo/target/vazilon/WEB-INF/classes/emailconfig.properties
+224375 2016-10-27 12:55:18,713 TRACE              tatar.tourism.mail.MailUtil  - Getting properties
+224383 2016-10-27 12:55:18,721 TRACE              tatar.tourism.mail.MailUtil  - Setting up smtp session
+224387 2016-10-27 12:55:18,725 TRACE              tatar.tourism.mail.MailUtil  - Formatting the new message
+224387 2016-10-27 12:55:18,725 TRACE              tatar.tourism.mail.MailUtil  - Sending message
+226180 2016-10-27 12:55:20,518 TRACE              tatar.tourism.mail.MailUtil  - Message successfully sent
+32617  2016-10-27 13:06:06,774 TRACE           tatar.tourism.mail.EmailSender  - The message to be sent:<html>
+<body>
+Приветствую habar66,
+<br>
+Вы зарегестрировались в нашем приложении. Пожалуйста не забудьте ваш пароль <p style='color:green;'>qwerty123456</p>
+<br>
+Чтобы подтвердить ваш аккаунт, пожалуйста пройдите <a href="http://localhost:8090/vazilon/confirm?uuid=96d57d9a-680f-4200-bb71-e1ee2f0e4d6e">по ссылке</a>
+<br>
+С уважением, Форум.<br/>
+</body>
+</html>
+32629  2016-10-27 13:06:06,786 TRACE              tatar.tourism.mail.MailUtil  - App is executed in folder C:\Users\habar\IdeaProjects\forumTwo
+32630  2016-10-27 13:06:06,787 TRACE              tatar.tourism.mail.MailUtil  - Properties are located at /C:/Users/habar/IdeaProjects/forumTwo/target/vazilon/WEB-INF/classes/emailconfig.properties
+32630  2016-10-27 13:06:06,787 TRACE              tatar.tourism.mail.MailUtil  - Getting properties
+32654  2016-10-27 13:06:06,811 TRACE              tatar.tourism.mail.MailUtil  - Setting up smtp session
+32676  2016-10-27 13:06:06,833 TRACE              tatar.tourism.mail.MailUtil  - Formatting the new message
+32734  2016-10-27 13:06:06,891 TRACE              tatar.tourism.mail.MailUtil  - Sending message
+35338  2016-10-27 13:06:09,495 TRACE              tatar.tourism.mail.MailUtil  - Message successfully sent
